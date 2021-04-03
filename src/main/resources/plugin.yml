@@ -1,0 +1,9 @@
+name: WhiteBlockPlacer
+version: ${project.version}
+main: com.rainchat.whiteblockplacer.WhiteBlockPlacer
+api-version: 1.16
+authors: [ rain_chat ]
+
+commands:
+  whiteplace:
+    permission: WhiteBlockPlacer.admin

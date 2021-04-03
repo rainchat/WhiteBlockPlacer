@@ -1,0 +1,7 @@
+# Можно писать не полное название пример дерево: WOOD
+
+BlockBreakList:
+  - SHULKER_BOX
+
+BlockPlaceList:
+  - SHULKER_BOX
